@@ -1,0 +1,6 @@
+{
+  "name": "Ikaya Media",
+  "description": "Ikaya Media is an independent brand identity and digital design studio crafting memorable visual systems and high-end web experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
