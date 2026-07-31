@@ -66,8 +66,8 @@ export const PROJECTS: Project[] = [
     overview: 'Kavira is a B2B ube powder brand looking to build stronger brand awareness and a consistent social media presence. Ikaya Media was brought on as their retained content and social partner — handling everything from strategy to shoot to publish.',
     challenge: 'Kavira needed a way to build trust and product visibility at scale without an in-house content team — balancing founder-storytelling, product education, and behind-the-scenes brand-building across a steady monthly cadence, not one-off campaigns.',
     solution: "Ikaya took over Kavira's content and social media presence end-to-end — planning, producing, and publishing a consistent stream of founder-led and product-focused content every month. By building a structured content pipeline instead of one-off posts, we gave Kavira a professional, reliable brand presence that strengthened trust, improved product visibility, and kept the audience consistently engaged.",
-    accentColor: '#06b6d4',
-    colors: ['#09090b', '#f4f4f5', '#06b6d4']
+    accentColor: '#ffb4d1',
+    colors: ['#c1ffbb', '#73b87a', '#ffb4d1']
   },
   {
     id: 'pestpro',
@@ -88,8 +88,8 @@ export const PROJECTS: Project[] = [
     overview: 'PestPro is a pest control brand looking to strengthen digital visibility and generate qualified local leads. Ikaya Media was brought on to run their full marketing engine — content, social, ads, SEO, and lead systems — under one connected strategy.',
     challenge: 'Pacific Co. needed consistent, trust-building content and a real demand-generation system working together — not just posts for visibility, but a pipeline that could turn local search intent and ad traffic into tracked, qualified enquiries, with visibility into what was actually working each month.',
     solution: 'Ikaya built a connected content and growth engine for Pacific Co. — combining consistent social media content with performance marketing, SEO, and automated lead workflows. By tying creative output directly to demand generation and reporting, we gave Pacific Co. a system that turned visibility into trackable leads, with clear monthly insight into what was driving results.',
-    accentColor: '#10b981',
-    colors: ['#fafaf9', '#1c1917', '#10b981']
+    accentColor: '#82bb41',
+    colors: ['#ffffff', '#004120', '#cff7c7','#595558']
   }
 ];
 
